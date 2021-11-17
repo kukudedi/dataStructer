@@ -12,6 +12,7 @@ public class parseArray {
 
         System.out.println("Hello Git");
         // 创建一个原始的二维数组 11 * 11
+        System.out.println("hot_fix");
         // 0: 表示没有棋子， 1 表示 黑子 2 表蓝子
         int[][] chessArr1 = new int[11][11];
         chessArr1[1][2] = 1;
