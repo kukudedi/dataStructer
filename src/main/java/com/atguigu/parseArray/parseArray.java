@@ -8,6 +8,9 @@ import java.io.*;
  */
 public class parseArray {
     public static void main(String[] args) throws IOException {
+
+
+        System.out.println("Hello Git");
         // 创建一个原始的二维数组 11 * 11
         // 0: 表示没有棋子， 1 表示 黑子 2 表蓝子
         int[][] chessArr1 = new int[11][11];
